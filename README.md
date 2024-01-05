@@ -1,2 +1,1 @@
-# Google_Search_PT
-1st Project
+This project was created as a proof of concept to show that without proper validation, XSS will happen!
